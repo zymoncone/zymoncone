@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on the Data4Good document summary tool release
 - 🌱 I’m currently learning Data Science at the University of Michigan
 - 💬 Ask me about the CrowdStrike incident
-- 📫 Reach me at szymon@sarnowicz.net
+- 📫 Feel free to reach out to me on LinkedIn
 
 <!--
 **zymoncone/zymoncone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
