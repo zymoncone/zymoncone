@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on the Data4Good document summary tool release<br/>
 🌱 I’m currently learning Data Science at the University of Michigan<br/>
-💬 Ask me about the CrowdStrike incident<br/>
 📫 Feel free to reach out to me on LinkedIn<br/>
 
 <!--
