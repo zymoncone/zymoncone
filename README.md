@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on the Data4Good document summary tool release<br/>
-🌱 I’m currently learning Data Science at the University of Michigan<br/>
-📫 Feel free to reach out to me on LinkedIn<br/>
+Software engineer and car geek with experience managing an autonomous vehicle program. Passionate about creating innovative solutions to make life easier.
 
 <!--
 **zymoncone/zymoncone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
