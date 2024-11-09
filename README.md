@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software engineer and car geek with experience managing an autonomous vehicle program. Passionate about creating innovative solutions to make life easier.
+Software engineer and car geek with experience in autonomous vehicles and electric vehicle battery diagnostics; currently taking my master's of data science at the University of Michigan. Passionate about creating innovative solutions to make life easier.
 
 <!--
 **zymoncone/zymoncone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
